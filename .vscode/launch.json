@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run UNet3D_full example",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/jamunet-morpho-braided-main/run_unet3d_full_example.py",
+            "python": "${workspaceFolder}/.venv/Scripts/python.exe",
+            "cwd": "${workspaceFolder}/jamunet-morpho-braided-main",
+            "console": "integratedTerminal"
+        }
+    ]
+}
