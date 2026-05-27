@@ -1,0 +1,4 @@
+[submodule "jamunet-morpho-braided-main"]
+	url = https://github.com/Deltares-research/jamunet.git
+	branch = main
+	path = jamunet-morpho-braided-main
